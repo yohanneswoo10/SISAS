@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <db_name>sisas</db_name>
+  <db_user>root</db_user>
+  <db_pass>banindo</db_pass>
+  <db_ip>localhost</db_ip>
+  <db_port>3306</db_port>
+</Config>
